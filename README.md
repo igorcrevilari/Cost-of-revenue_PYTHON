@@ -1,11 +1,11 @@
-# — Calculadora CUSTOS de RECEITA... 🐍
-Esse programa é executado para facilitar o reconhecimento do processo de custos de uma receita.
+# — Revenue Costs Calculator... 🐍
+This program is run to facilitate the recognition of the cost process of a recipe.
 <br><br>
-Ele calcula através de um banco de dados dos ingredientes (embutido em Python, como um dicionário). Atráves dele, utiliza funções para classificar os custos (xícara, colher de sopa, colher de chá...).
+It calculates through a database of ingredients (built into Python, like a dictionary). Through it, it uses functions to classify the costs (cup, tablespoon, teaspoon...).
 <br><br>
-De acordo com seus condicionadores, trabalha com um Looping, atualizando o custo da receita a cada ingrediente adicionado.
+According to its conditioners, it works with a Looping, updating the cost of the recipe with each ingredient added.
 <br><br>
-Segue anexos do software:
+Here are the software attachments:
 <br><br>
 <hr>
 <div align="center">
