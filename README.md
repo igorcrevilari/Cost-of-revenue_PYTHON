@@ -20,6 +20,6 @@ Here are the software attachments:
 
 <hr>
 <br><br>
-OBS: Poderia ter feito através de tabelas como mySQL ou EXCEL, porém me senti desafiado a criar o programa utilizando dicionários locais em PYTHON. No começo foi complicado, mas deu certo ao final.
+OBS: I could have done it through tables like mySQL or EXCEL, but I felt challenged to create the program using local dictionaries in PYTHON. It was difficult at first, but it worked out in the end.
 <br><br>
 <hr>
